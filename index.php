@@ -24,11 +24,11 @@ if(isset($_POST['book'])){
                  $mail->isSMTP();                                           
                  $mail->Host       = 'smtp.gmail.com';                     
                  $mail->SMTPAuth   = true;                                   
-                 $mail->Username   = 'samyakjain2109@gmail.com';                    
+                 $mail->Username   = 'aruns7010@gmail.com';                    
                  $mail->Password   = 'lqpvlknuijujmmnd';                             
                  $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            
                  $mail->Port       = 465;                                    
-                 $mail->setFrom('samyakjain2109@gmail.com', 'Medico');
+                 $mail->setFrom('medico@gmail.com', 'Medico');
              
                  $mail->addAddress($email);             
              
