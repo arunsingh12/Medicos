@@ -450,7 +450,7 @@ if(isset($_POST['book'])){
                 <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
             </div>
         </div>
-        <div class="credit">© Created By <span>Samyak Jain</span> | All Rights Reserved</div>
+        <div class="credit">© Created By <span>arun</span> | All Rights Reserved</div>
     </section>
 
 
